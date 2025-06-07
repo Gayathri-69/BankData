@@ -1,4 +1,4 @@
-Loan ID,Customer ID,Loan Amount,Loan Type,Rate of Interest,EMI,Term (Months),Loan Status,Issue Date
+Loan ID,Customer ID,Loan Amount,Loan Type,Rate of Interest,EMI,Term Months,Loan Status,Issue Date
 LOAN20001,CUST10423,3327760,Personal,10.92,154976.13,24,Ongoing,29-06-2022
 LOAN20002,CUST10085,4489649,Home,11.67,210652.14,24,Closed,03-01-2025
 LOAN20003,CUST10706,1641604,Education,9.62,34573.09,60,Closed,27-03-2023
