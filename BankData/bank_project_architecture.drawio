@@ -63,8 +63,8 @@
         <mxCell id="diUxomPdKumXEhWnS9-8-16" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;strokeWidth=0;image=https://images.lucid.app/images/3c787341-0593-47cd-88d9-20f7ffcd4058/content;imageAspect=0;lucidId=Hqin6zSfS4ZM;" vertex="1" parent="1">
           <mxGeometry x="1856" y="-384" width="177" height="191" as="geometry" />
         </mxCell>
-        <mxCell id="diUxomPdKumXEhWnS9-8-17" value="&lt;font&gt;Data Ingestion&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=55;fontStyle=0;fontColor=light-dark(#000000,#EDEDED);fontFamily=Tahoma;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="-640" width="380" height="110" as="geometry" />
+        <mxCell id="diUxomPdKumXEhWnS9-8-17" value="&lt;font&gt;&lt;b&gt;Data Ingestion&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=55;fontStyle=0;fontColor=light-dark(#000000,#EDEDED);fontFamily=Tahoma;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="-640" width="430" height="110" as="geometry" />
         </mxCell>
         <mxCell id="diUxomPdKumXEhWnS9-8-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2440" y="-660" width="1090" height="620" as="geometry" />
@@ -158,8 +158,8 @@
         <mxCell id="diUxomPdKumXEhWnS9-8-46" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;strokeWidth=0;image=https://images.lucid.app/images/207c4069-121f-4a91-bbf2-1706af0bf9e6/content;imageAspect=0;lucidId=Hqin~NOXF9mP;" vertex="1" parent="1">
           <mxGeometry x="3270" y="-630" width="221" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="diUxomPdKumXEhWnS9-8-47" value="Data Transformation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=55;fontStyle=0;fontColor=light-dark(#000000,#EDEDED);fontFamily=Tahoma;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2470" y="-630" width="540" height="110" as="geometry" />
+        <mxCell id="diUxomPdKumXEhWnS9-8-47" value="&lt;b&gt;Data Transformation&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=55;fontStyle=0;fontColor=light-dark(#000000,#EDEDED);fontFamily=Tahoma;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2470" y="-630" width="610" height="110" as="geometry" />
         </mxCell>
         <mxCell id="diUxomPdKumXEhWnS9-8-48" value="Snowflake" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=50;fontFamily=Helvetica;fontColor=#3a414a;align=center;spacing=3.8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=1.5;lucidId=HqinSpCTlt17;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="3230" y="-401" width="290" height="90" as="geometry" />
@@ -170,8 +170,8 @@
         <mxCell id="diUxomPdKumXEhWnS9-8-50" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;strokeWidth=0;image=https://images.lucid.app/images/988ba573-0bf3-44b1-89dd-7e8e5e330b2f/content;imageAspect=0;lucidId=2uinld5a5_Y2;" vertex="1" parent="1">
           <mxGeometry x="4400" y="-634.5" width="197" height="257" as="geometry" />
         </mxCell>
-        <mxCell id="diUxomPdKumXEhWnS9-8-59" value="EDA and Predictions" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=55;fontStyle=0;fontColor=light-dark(#000000,#EDEDED);fontFamily=Tahoma;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="3770" y="-645.5" width="540" height="110" as="geometry" />
+        <mxCell id="diUxomPdKumXEhWnS9-8-59" value="&lt;b&gt;EDA and Predictions&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=55;fontStyle=0;fontColor=light-dark(#000000,#EDEDED);fontFamily=Tahoma;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3770" y="-645.5" width="590" height="110" as="geometry" />
         </mxCell>
         <mxCell id="diUxomPdKumXEhWnS9-8-68" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=3.8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=4.5;lucidId=lvinlDAO1zLl;" vertex="1" parent="1">
           <mxGeometry x="4011" y="-518.25" width="140" height="159" as="geometry" />
@@ -203,22 +203,22 @@
         <mxCell id="diUxomPdKumXEhWnS9-8-77" value="Snowflake Notebook" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=50;fontFamily=Helvetica;fontColor=#3a414a;align=center;spacing=3.8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=1.5;lucidId=HqinSpCTlt17;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="4329" y="-366" width="290" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="diUxomPdKumXEhWnS9-8-94" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;fontSize=29;fontStyle=0;labelBorderColor=default;strokeWidth=6;fillColor=#000000;" vertex="1" parent="1">
+        <mxCell id="diUxomPdKumXEhWnS9-8-94" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;fontSize=29;fontStyle=0;labelBorderColor=default;strokeWidth=6;fillColor=light-dark(#3A414A,#EDEDED);" vertex="1" parent="1">
           <mxGeometry x="2220" y="-366" width="220" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="diUxomPdKumXEhWnS9-8-97" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;fontSize=29;fontStyle=0;labelBorderColor=default;strokeWidth=6;fillColor=#000000;" vertex="1" parent="1">
+        <mxCell id="diUxomPdKumXEhWnS9-8-97" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;fontSize=29;fontStyle=0;labelBorderColor=default;strokeWidth=6;fillColor=light-dark(#3A414A,#EDEDED);" vertex="1" parent="1">
           <mxGeometry x="3540" y="-386" width="220" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="diUxomPdKumXEhWnS9-8-98" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;strokeWidth=7;fillColor=#000000;" vertex="1" parent="1">
+        <mxCell id="diUxomPdKumXEhWnS9-8-98" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;strokeWidth=7;fillColor=light-dark(#3A414A,#EDEDED);" vertex="1" parent="1">
           <mxGeometry x="3075.5" y="30" width="70" height="500" as="geometry" />
         </mxCell>
-        <mxCell id="diUxomPdKumXEhWnS9-8-116" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.6;dx=35;strokeWidth=7;fillColor=#000000;" vertex="1" parent="1">
+        <mxCell id="diUxomPdKumXEhWnS9-8-116" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.6;dx=35;strokeWidth=7;fillColor=light-dark(#3A414A,#EDEDED);" vertex="1" parent="1">
           <mxGeometry x="2770" y="530" width="710" height="60" as="geometry" />
         </mxCell>
         <mxCell id="diUxomPdKumXEhWnS9-8-117" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Data%20Transformation%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3BfontSize%3D55%3BfontStyle%3D0%3BfontColor%3Dlight-dark(%23000000%2C%23EDEDED)%3BfontFamily%3DTahoma%3BlabelBackgroundColor%3Dnone%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%222470%22%20y%3D%22-630%22%20width%3D%22540%22%20height%3D%22110%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2015" y="340" width="750" height="570" as="geometry" />
         </mxCell>
-        <mxCell id="diUxomPdKumXEhWnS9-8-118" value="Dasboard" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=55;fontStyle=0;fontColor=light-dark(#000000,#EDEDED);fontFamily=Tahoma;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="diUxomPdKumXEhWnS9-8-118" value="&lt;b&gt;Dasboard&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=55;fontStyle=0;fontColor=light-dark(#000000,#EDEDED);fontFamily=Tahoma;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="1895" y="350" width="540" height="110" as="geometry" />
         </mxCell>
         <mxCell id="diUxomPdKumXEhWnS9-8-119" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;strokeWidth=0;image=https://images.lucid.app/images/a0b5d20a-a161-4e2e-86b9-1687016ad49c/content;imageAspect=0;lucidId=IDhnW92AKo7G;" vertex="1" parent="1">
@@ -230,8 +230,8 @@
         <mxCell id="diUxomPdKumXEhWnS9-8-121" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Data%20Transformation%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3BfontSize%3D55%3BfontStyle%3D0%3BfontColor%3Dlight-dark(%23000000%2C%23EDEDED)%3BfontFamily%3DTahoma%3BlabelBackgroundColor%3Dnone%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%222470%22%20y%3D%22-630%22%20width%3D%22540%22%20height%3D%22110%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3500" y="350" width="520" height="460" as="geometry" />
         </mxCell>
-        <mxCell id="diUxomPdKumXEhWnS9-8-122" value="Streamlit app&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=55;fontStyle=0;fontColor=light-dark(#000000,#EDEDED);fontFamily=Tahoma;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="3410" y="370" width="540" height="110" as="geometry" />
+        <mxCell id="diUxomPdKumXEhWnS9-8-122" value="&lt;b&gt;Streamlit app&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=55;fontStyle=0;fontColor=light-dark(#000000,#EDEDED);fontFamily=Tahoma;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3440" y="370" width="540" height="110" as="geometry" />
         </mxCell>
         <mxCell id="diUxomPdKumXEhWnS9-8-123" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;strokeWidth=0;image=https://images.lucid.app/images/69dfb1e8-d8aa-4fea-ad40-21d255f06ac1/content;imageAspect=0;lucidId=rthnGlDXxeqj;" vertex="1" parent="1">
           <mxGeometry x="3610" y="475.5" width="330" height="264.5" as="geometry" />
