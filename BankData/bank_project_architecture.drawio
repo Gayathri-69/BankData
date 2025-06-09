@@ -236,8 +236,8 @@
         <mxCell id="diUxomPdKumXEhWnS9-8-123" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;strokeWidth=0;image=https://images.lucid.app/images/69dfb1e8-d8aa-4fea-ad40-21d255f06ac1/content;imageAspect=0;lucidId=rthnGlDXxeqj;" vertex="1" parent="1">
           <mxGeometry x="3610" y="475.5" width="330" height="264.5" as="geometry" />
         </mxCell>
-        <mxCell id="diUxomPdKumXEhWnS9-8-124" value="Bank Project Architecture" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=92;" vertex="1" parent="1">
-          <mxGeometry x="900" y="-1050" width="1411" height="150" as="geometry" />
+        <mxCell id="diUxomPdKumXEhWnS9-8-124" value="&lt;span&gt;Bank Project Architecture&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=92;fontFamily=Georgia;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="870" y="-1070" width="1490" height="320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
