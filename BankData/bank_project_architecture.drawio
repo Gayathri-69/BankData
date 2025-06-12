@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="27.1.4">
   <diagram name="Page-1" id="tRypGCHuhZgqPp5vQ8EK">
-    <mxGraphModel dx="3040" dy="3270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3040" dy="4370" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -199,13 +199,13 @@
           <mxGeometry x="3149" y="784" width="290" height="90" as="geometry" />
         </mxCell>
         <mxCell id="diUxomPdKumXEhWnS9-8-117" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Data%20Transformation%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3BfontSize%3D55%3BfontStyle%3D0%3BfontColor%3Dlight-dark(%23000000%2C%23EDEDED)%3BfontFamily%3DTahoma%3BlabelBackgroundColor%3Dnone%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%222470%22%20y%3D%22-630%22%20width%3D%22540%22%20height%3D%22110%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="4031" y="-380" width="750" height="570" as="geometry" />
+          <mxGeometry x="4040" y="-420" width="760" height="650" as="geometry" />
         </mxCell>
         <mxCell id="diUxomPdKumXEhWnS9-8-118" value="&lt;b&gt;Dasboard&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=55;fontStyle=0;fontColor=light-dark(#000000,#EDEDED);fontFamily=Tahoma;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="3950" y="-370" width="540" height="110" as="geometry" />
+          <mxGeometry x="3950" y="-399" width="540" height="110" as="geometry" />
         </mxCell>
         <mxCell id="diUxomPdKumXEhWnS9-8-119" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;strokeWidth=0;image=https://images.lucid.app/images/a0b5d20a-a161-4e2e-86b9-1687016ad49c/content;imageAspect=0;lucidId=IDhnW92AKo7G;" parent="1" vertex="1">
-          <mxGeometry x="4168" y="-220" width="480" height="280" as="geometry" />
+          <mxGeometry x="4490" y="-1820" width="480" height="280" as="geometry" />
         </mxCell>
         <mxCell id="diUxomPdKumXEhWnS9-8-120" value="Power BI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=31;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="4260" y="60" width="303" height="90" as="geometry" />
@@ -237,6 +237,9 @@
             <mxPoint x="2660" y="-30" as="sourcePoint" />
             <mxPoint x="2780" y="-30" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ISwXCiE8IIj7L5Nm0bpA-43" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/11068/11068821.png;" vertex="1" parent="1">
+          <mxGeometry x="4140" y="-314" width="572" height="572" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
