@@ -241,6 +241,9 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="k6yte4FluqF7DVj7CMwp-3" value="Power BI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontStyle=0;fontColor=light-dark(#000000,#EDEDED);fontFamily=Helvetica;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4560" y="-164" width="540" height="110" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
