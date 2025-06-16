@@ -205,7 +205,7 @@
           <mxGeometry x="3673" y="-417" width="540" height="110" as="geometry" />
         </mxCell>
         <mxCell id="diUxomPdKumXEhWnS9-8-119" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;strokeWidth=0;image=https://images.lucid.app/images/a0b5d20a-a161-4e2e-86b9-1687016ad49c/content;imageAspect=0;lucidId=IDhnW92AKo7G;imageBorder=default;" parent="1" vertex="1">
-          <mxGeometry x="4474" y="-527" width="306" height="204" as="geometry" />
+          <mxGeometry x="4401" y="3300" width="306" height="204" as="geometry" />
         </mxCell>
         <mxCell id="diUxomPdKumXEhWnS9-8-124" value="Customer Risk Evaluation &amp;amp; Loan&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Default Prediction Architecture&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=92;fontFamily=Georgia;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="870" y="-1070" width="4160" height="320" as="geometry" />
